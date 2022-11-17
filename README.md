@@ -1,0 +1,1 @@
+# template-api-tsc-postgre-prisma
